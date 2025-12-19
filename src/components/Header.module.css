@@ -1,0 +1,8 @@
+@reference "tailwindcss";
+
+.title {
+    @apply text-3xl font-bold underline;
+}
+.background {
+    @apply text-2xl text-orange-600 font-bold underline;
+}

@@ -1,0 +1,13 @@
+@layer base {
+  body {
+    @reference bg-white text-slate-900 antialiased;
+  }
+
+  h1 {
+    @reference text-4xl font-bold tracking-tight;
+  }
+
+  h2 {
+    @reference text-3xl font-semibold;
+  }
+}

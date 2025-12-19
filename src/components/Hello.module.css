@@ -1,0 +1,5 @@
+@reference "tailwindcss";
+
+.background {
+   @apply bg-pink-500;
+}
